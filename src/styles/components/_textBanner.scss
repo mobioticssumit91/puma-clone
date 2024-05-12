@@ -1,0 +1,20 @@
+.text-banner {
+    text-align: center;
+    margin: 4rem;
+    h4 {
+        margin-top: 0.8rem;
+    }
+    .round-banner {
+        display: flex;
+        column-gap: 1rem;
+        justify-content: center;
+        margin-top:1rem;
+        img {
+            width: 8rem;
+            border-radius: 50%;
+            border: 0.15rem solid red;
+            padding: 0.2rem;
+        }
+
+    }
+}

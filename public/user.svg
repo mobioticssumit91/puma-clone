@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="b942857a-5c59-4092-a60b-eb52057fcca8"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="cc1b0364-b345-4411-9d24-eae5201e38b9"  >
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(45 0 0 45 540 540)" id="icon"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: evenodd; opacity: 1;"  transform=" translate(-12, -11.5)" d="M 12 8 C 13.104569499661586 8 14 7.1045694996615865 14 6 C 14 4.8954305003384135 13.104569499661586 4 12 4 C 10.895430500338414 4 10 4.8954305003384135 10 6 C 10 7.1045694996615865 10.895430500338414 8 12 8 Z M 12 10 C 14.209138999323173 10 16 8.209138999323173 16 6 C 16 3.790861000676826 14.209138999323173 2 12 2 C 9.790861000676827 2 8 3.790861000676826 8 6 C 8 8.209138999323173 9.790861000676827 10 12 10 Z M 15 14 L 9 14 C 7.343145750507619 14 6 15.34314575050762 6 17 L 6 19 L 18 19 L 18 17 C 18 15.34314575050762 16.65685424949238 14 15 14 Z M 9 12 C 6.238576250846033 12 4 14.238576250846034 4 17 L 4 20.7 C 4 20.77956494695186 4.031607052109625 20.855871120821554 4.087867965644035 20.912132034355963 C 4.144128879178446 20.968392947890376 4.220435053048137 21 4.3 21 L 19.7 21 C 19.77956494695186 21 19.855871120821554 20.968392947890376 19.912132034355963 20.912132034355963 C 19.968392947890376 20.855871120821554 20 20.77956494695186 20 20.7 L 20 17 C 20 14.238576250846034 17.761423749153966 12 15 12 L 9 12 Z" stroke-linecap="round" />
+</g>
+</svg>

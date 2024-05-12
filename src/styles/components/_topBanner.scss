@@ -1,0 +1,27 @@
+
+
+.top-banner {
+
+    background: $topnav-bg-color;
+    width: 100%;
+    padding: 0.9rem 0rem;
+    text-align: center;
+    p {
+        transition: opacity 0.5s ease-out; /* Define transition for opacity */
+        color: $primary-color;
+        font-size: 0.8rem;
+        top: 0.5rem;
+        font-weight: 500;
+
+      }
+     p:nth-child(2) {
+        margin-top: -1rem;
+     } 
+} 
+  
+  .show {
+    opacity: 1; /* Show the content */
+  }
+  .hide {
+    opacity: 0; /* Show the content */
+  }

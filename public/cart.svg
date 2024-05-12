@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="03f1e2e1-1936-4205-9437-10da650a730a"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="dcff4709-467b-45c0-9bf5-4ea7528f2bff"  >
+</g>
+<g transform="matrix(67.5 0 0 67.5 540 540)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -0.59 -1.33)" id="icon"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-7.41, -6.67)" d="M 1.333 3.333 L 2.77 3.333 L 3.98 10.61 C 4.05 11.027999999999999 4.411 11.334 4.835 11.334 L 11.504 11.334 C 11.912437688676153 11.333678624240662 12.265261161787222 11.04833732662427 12.350999999999999 10.649 L 13.491 5.333999999999999 L 4.453 5.333999999999999 L 3.898 2 L 1.333 2 L 1.333 3.333 Z M 5.231 10 L 4.676 6.667 L 11.842 6.667 L 11.128 10 L 5.23 10 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0.33 5.33)" id="icon"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-8.33, -13.33)" d="M 12 12.667 L 4.667 12.667 L 4.667 14 L 12 14 L 12 12.667 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
