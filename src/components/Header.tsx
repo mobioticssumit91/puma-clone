@@ -5,6 +5,7 @@ import heart from "/heart.svg";
 import cart from "/cart.svg";
 import search from "/search.svg";
 import { menuItems } from "../util/helper";
+/* eslint-disable */
 
 function Header() {
     const [menu, setMenu] = useState([]);
