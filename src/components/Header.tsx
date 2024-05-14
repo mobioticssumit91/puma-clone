@@ -49,11 +49,14 @@ function Header() {
     }
 
   return (
-    <>
+    <div className="parent-header-nav">
+   
         <div className="header-nav">
+            
         <div className="main-logo">
             <img src={login}></img>
         </div>
+        
         <div className="main-desktop-list">
             <ul>
               { menu.map((item) => {
@@ -64,6 +67,10 @@ function Header() {
                 </li>)
               })}
             </ul>
+
+          
+           
+           
           
         </div>
      
@@ -80,13 +87,14 @@ function Header() {
             <div><img src={user} alt="user" /></div>
 
         </div>
-    
+            
+       
     </div>
 
-    {<div className={`subMenuList ${isSubMenuActive ? 'opacity-1': 'opacity-0'}`}>
+ {<div className={`subMenuList ${isSubMenuActive ? 'opacity-1': 'opacity-0'}`}>
             I am in {isSubMenuActive}
-        </div>}
-    </>
+        </div>} 
+    </div>
 
   )
 }
